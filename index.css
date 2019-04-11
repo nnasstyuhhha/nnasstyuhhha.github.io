@@ -1,0 +1,13 @@
+body{font-family: sans-serif;
+	font-style: italic;
+	text-transform: capitalize;}
+.ramka{border: 20px groove red;
+	background-color: rgb(12, 255, 460);
+	width: 290px;
+	height: 320px;}
+.kartina{max-width: 300px;
+	height: 295px;
+	border: 15px solid green;
+	background-color: powderblue;
+	background-image: url(https://i.ytimg.com/vi/lkQ0LDx9jHs/maxresdefault.jpg);
+	overflow: scroll;}
