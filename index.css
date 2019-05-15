@@ -1,0 +1,67 @@
+{font-family: "Georgia"}
+
+body {background-color:#FFFAF0}
+
+h1 {text-align: center;
+	color: #000000;
+	text-height:40px;}
+
+#left
+{	background-color:#DCDCDC;
+	width: 100%;
+	float: left;
+	text-align: center;}
+
+#center
+{	font-family: "Gabriola";
+	font-style: oblique;
+	text-align: center;
+	background-color:#F5F5F5;
+	margin: 0px ;
+	font-size: 40px;}
+
+li {list-style-type: none;}
+
+.menu li {float: left;}
+
+.menu li a
+{	padding: 90px;
+	color: #B22222;}
+
+#top
+{	text-align: left;
+	background-color:#BC8F8F;
+	margin-left: auto;
+    margin-right: auto;
+    width: 650px;}
+
+#down
+{	background-color: #D2B48C;
+	border: 1.5px solid black;
+	margin-left: auto;
+    margin-right: auto;
+    width:647px;}
+
+img
+{	padding: 28.5px;
+    width: 590px}
+
+.kuhnya
+{	text-align: center;
+	font-style: oblique}
+
+.picture img
+{	border: 3px solid #F08080;
+    padding: 8px;
+    background: #666;
+    margin-left: 19px;
+    margin-bottom: 10px;
+    width:42% ; }
+
+.image img
+{ border: 3px solid #F08080;
+    padding: 8px;
+    background: #666;
+    margin-left: 6%;
+    margin-bottom: 7%;
+    width:85%; }
